@@ -1,3 +1,4 @@
 print ("Welcome to My Python Code")
 savings = input ("How much money did you save this month? ")
-saving years = savings * 12
+savings_year = savings * 12
+print ('You will save {savings_year} in a year')
